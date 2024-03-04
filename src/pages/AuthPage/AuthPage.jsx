@@ -2,6 +2,6 @@ import React from 'react'
 
 export default function AuthPage() {
   return (
-    <div>AuthPage</div>
+    <h1>AuthPage</h1>
   )
 }
